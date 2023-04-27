@@ -15,11 +15,11 @@
 
 <br>
 
-![GitHub Profiles]()
+![GitHub Profiles](images/GitHub-Profiles.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/GitHub-Profiles/)
 
 <br>
 
